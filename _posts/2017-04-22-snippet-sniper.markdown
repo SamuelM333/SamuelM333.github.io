@@ -65,4 +65,4 @@ Share your snippets with anyone you want (or keep it to yourself)
 
 ---
 
-Check it out [here](snippetsniper.com).
+Check it out [here](https://snippetsniper.com).
