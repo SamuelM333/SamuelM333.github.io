@@ -21,8 +21,6 @@ category: project
 author: samuelmurillo
 externalLink: false
 ---
-<h3 class="title"><a class="external" href="http://snippetsniper.com" target="_blank">snippetsniper.com</a></h3>
-
 <div>
     <img class="image" src="{{ site.url }}/assets/images/projects/snippet-sniper/landing-page.png" alt="landing-page">
     <figcaption class="caption">Landing page</figcaption>
@@ -62,7 +60,3 @@ Write code as comfortable as if you were on your IDE. Powered by [Ace](https://a
 
 
 Share your snippets with anyone you want (or keep it to yourself)
-
----
-
-Check it out [here](https://snippetsniper.com).
