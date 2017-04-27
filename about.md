@@ -34,11 +34,9 @@ platforms using NativeScript with Angular.</p>
            <li>Git</li>
            <li>HTML - Jade</li>
            <li>CSS - Sass</li>
-           <li>CSS Frameworks (Bootstrap, Materialize)</li>
+           <li>CSS Frameworks</li>
            <li>C#</li>
            <li>MySQL</li>
        </ul>
     </div>
 </div>
-
-
