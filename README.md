@@ -43,6 +43,8 @@ If you want to test locally on your machine, do the following steps also:
 5. Open it in your browser: `http://localhost:4000`
 6. Test your app with `bundle exec htmlproofer ./_site`
 
+jekyll build --source . --destination /var/www/html/portfolio
+
 ## Settings
 
 You must fill some informations on `_config.yml` to customize your site.
