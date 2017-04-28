@@ -20,7 +20,7 @@ a GUI seems pretty easy and natural. But what about the more advanced stuff? Wha
 remotely? If your desktop fails, how would you recover from this?
 
 This and other situations are easily handled using the command line. Simply put, the CLI 
-(**C**ommand **L**ine **I**nterface, ofter called Terminal emulator too) is a program that takes your commands from the 
+(**C**ommand **L**ine **I**nterface, often called Terminal emulator too) is a program that takes your commands from the 
 keyboard and gives them to the operating system to perform. In the old days, it was the only user interface available 
 on a Linux/Unix computer. Most of the commands and flags are easy to remember by their acronym, so keep in mind when you
 learn a new command to see what it means and it will be easier to memorize.
@@ -90,7 +90,7 @@ the parent directory where you are working, run `cd ..`.
 <h3 class="title">pwd</h3>
 
 Now that you are on the directory you want, maybe you need to take note of the full path for some configuration file,
-here comes handy `pwd`, this means "**p**rint **w**orking **d**irectoty". 
+here comes handy `pwd`, this means "**p**rint **w**orking **d**irectory". 
 
 <div>
     <img class="image linux" src="/assets/images/blog/2017-04-26-basic-commands-on-linux/pwd.png" alt="pwd">
@@ -101,7 +101,7 @@ here comes handy `pwd`, this means "**p**rint **w**orking **d**irectoty".
 
 <h3 class="title">mkdir</h3>
 
-The last command I want to address on the directory navegation is `mkdir` (stands for make directory). It will create a 
+The last command I want to address on the directory navigation is `mkdir` (stands for make directory). It will create a 
 directory inside of the folder you are working on. Keep in mind that `mkdir` works with relative and absolute paths. 
 
 Another useful note is to run `mkdir` with the -p flag, running the command with this flag will create nested
@@ -194,7 +194,7 @@ You can also quickly concatenate several text files to a new file with the follo
 </div>
 <br>
 
-This will create a new file called test.txt or replace it if it already exists. This could be dangerous, so ofter is 
+This will create a new file called test.txt or replace it if it already exists. This could be dangerous, so often is 
 used the append operator, like this: 
 
 <div>
