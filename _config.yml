@@ -12,7 +12,7 @@ picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
+resume: false
 resume-external: true
 resume-url: https://docs.google.com/document/u/0/d/1NgDDUB9XG28aIefyP14lhNYiTS_u0ep6mKzO1atwtMA/export?format=docx
 
@@ -72,7 +72,7 @@ projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
+blog: false
 testimonies: true
 
 # do you want to show the "read time" of the posts?
