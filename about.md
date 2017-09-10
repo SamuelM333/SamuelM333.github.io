@@ -32,11 +32,11 @@ platforms using NativeScript with Angular.</p>
            <li>Docker</li>
            <li>MongoDB</li>
            <li>Git</li>
-           <li>HTML - Jade</li>
+           <li>HTML - Jade / Pug</li>
            <li>CSS - Sass</li>
            <li>CSS Frameworks</li>
            <li>C#</li>
-           <li>MySQL</li>
+           <li>MySQL / PostgreSQL</li>
        </ul>
     </div>
 </div>
