@@ -40,3 +40,5 @@ platforms using NativeScript with Angular.</p>
        </ul>
     </div>
 </div>
+
+[Download Resume](https://docs.google.com/document/u/0/d/1NgDDUB9XG28aIefyP14lhNYiTS_u0ep6mKzO1atwtMA/export?format=docx)
