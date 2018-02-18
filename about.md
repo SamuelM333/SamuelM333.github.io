@@ -7,7 +7,7 @@ layout: page
 
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>I'm a young software developer almost finishing my career as a Computer engineer. 
+<p>I'm a young Computer Engineer dedicated to software development. 
 I'm very passionate about Python and RESTful APIs development. 
 I also like Web development using Django and Angular. Recently I've been working a lot on mobile
 platforms using NativeScript with Angular.</p>
