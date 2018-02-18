@@ -58,6 +58,12 @@
             <svg class="icon icon-github"><use xlink:href="#icon-github"></use></svg>
         </a>
     {% endif %}
+
+    {% if site.upwork %}
+        <a class="link" data-title="upwork.com/freelancers/{{ site.upwork }}" href="https://www.upwork.com/freelancers/{{ site.upwork }}" target="_blank">
+            <svg class="icon icon-upwork"><use xlink:href="#icon-upwork"></use></svg>
+        </a>
+    {% endif %}
     
     {% if site.stackoverflow %}
         <a class="link" data-title="stackoverflow.com/users/{{ site.stackoverflow }}" href="http://stackoverflow.com/users/{{ site.stackoverflow }}" target="_blank">
