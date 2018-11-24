@@ -1,0 +1,11 @@
+version: '2.1'
+
+services:
+  samuelmurillo.me:
+    build: .
+    command: jekyll build --source /code --destination /code/build
+    # command: bundle exec jekyll serve --config _config.yml,_config-dev.yml
+    ports:
+        - 4000:4000
+    volumes:
+       - ./:/code
