@@ -7,10 +7,9 @@ layout: page
 
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>I'm a young Computer Engineer dedicated to software development. 
-I'm very passionate about Python and RESTful APIs development. 
-I also like Web development using Django and Angular. Recently I've been working a lot on mobile
-platforms using NativeScript with Angular.</p>
+<p>I'm a young Computer Engineer dedicated to software development.
+I'm very passionate about Python and RESTful APIs development.
+I also like Web development using Django and Angular.</p>
 
 <h2>Skills</h2>
 
@@ -18,7 +17,7 @@ platforms using NativeScript with Angular.</p>
     <div class="no-margin toleft">
       <ul class="no-margin skill-list">
           <li>Python</li>
-          <li>Django - DRF</li>
+          <li>Django & Django REST Framework</li>
           <li>Javascript</li>
           <li>TypeScript</li>
           <li>NodeJS</li>
@@ -35,8 +34,8 @@ platforms using NativeScript with Angular.</p>
            <li>HTML - Jade / Pug</li>
            <li>CSS - Sass</li>
            <li>CSS Frameworks</li>
-           <li>C#</li>
-           <li>MySQL / PostgreSQL</li>
+           <li>Bash</li>
+           <li>PostgreSQL</li>
        </ul>
     </div>
 </div>
